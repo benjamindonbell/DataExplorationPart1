@@ -157,9 +157,6 @@
     <Content Include="App_Data\artists.xml" />
     <Content Include="App_Data\grocertogo.mdb" />
     <Content Include="App_Data\grocertogo.mdf" />
-    <Content Include="App_Data\grocertogo_log.ldf">
-      <DependentUpon>grocertogo.mdf</DependentUpon>
-    </Content>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
